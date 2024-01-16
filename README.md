@@ -59,10 +59,6 @@ Tip: Add the `-fuseful-error-info` flag to generate the neccecary boilerplate co
 #### Windows users: if you really must use the microshit compiler, don't expect to get much mileage at all out of your program.
 Performance will be abysmal, as Nina relies heavily on compiler optimizations.
 
-## Paid Tech Support for Nina
-
-**Nina will always be 100% free, libre GPL-licensed software!**, and you can pay a subscription fee to have the lead developers on same-business-day speed-dial to educate and help your team with Nina to boost their productivity and save you lots of money.
-
 ## TL;DR Gimme Maximum Speed JavaScript
 
 Okay!, to read the minimum amount of this documentation, skip the bla-bla-bla lecture about bla-bla-profiling-bla-bla-benchmarks-bla-bla, and get the max performance possible, follow these steps:
@@ -1427,3 +1423,7 @@ Thank you!, Nina, for putting up with the endless quirky shenanigans central to 
 
 # When 1.0 release?
 Great Question!
+
+## Paid Tech Support for Nina
+
+**Nina will always be 100% free, libre GPL-licensed software!**, and you can pay a subscription fee to have the lead developers on same-business-day speed-dial to educate and help your team with Nina to boost their productivity and save you lots of money.
