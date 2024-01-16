@@ -2,7 +2,7 @@
 
 What is *Nina*? Nina is my best friend, biggest supporter, and a slightly modified version of JavaScript/Node.JS/TypeScript easily compiled all the way down to compact, performant C code. 
 
-**Nina is ridiculously high peformance and competes with Google's V8 engine. Yes!, you read that right! See the [benchmarks.](#Benchmarks)**
+**Nina is ridiculously high peformance and competes with Google's V8 engine, Deno, and Bun!. Yes!, you read that right! See the [benchmarks.](#Benchmarks)**
 
 ## Getting Started with Nina
 
